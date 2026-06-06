@@ -152,7 +152,6 @@ mus = mus_sample_size(
 
 **Dimitrios** — Applied Mathematics (BSc + MSc)
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
